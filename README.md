@@ -23,7 +23,7 @@ Procedure
 8. Draw conclusions.
 
 
-Test Scenarios
+Test Scenarios :
 The following scenarios were selected:
 • Generating a creative story
 • Answering a factual question
